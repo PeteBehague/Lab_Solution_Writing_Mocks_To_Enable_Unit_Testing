@@ -5,7 +5,7 @@ using MovieSelector.Models;
 using MovieSelector;
 
 namespace MovieSelectorTestProject
-{
+{ 
     public class MovieDeciderTests
     {
         List<Movie> movies = new List<Movie>();
