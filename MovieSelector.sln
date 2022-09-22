@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieSelector", "MovieSelector\MovieSelector.csproj", "{369896D9-EE3A-43BD-A9CC-2C1B120859FE}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieSelectorTestProject", "MovieSelectorTestProject\MovieSelectorTestProject.csproj", "{4C4629B0-CF97-4FED-8DF3-AB0D3CBB54CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{369896D9-EE3A-43BD-A9CC-2C1B120859FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{369896D9-EE3A-43BD-A9CC-2C1B120859FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{369896D9-EE3A-43BD-A9CC-2C1B120859FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4629B0-CF97-4FED-8DF3-AB0D3CBB54CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4629B0-CF97-4FED-8DF3-AB0D3CBB54CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4629B0-CF97-4FED-8DF3-AB0D3CBB54CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4629B0-CF97-4FED-8DF3-AB0D3CBB54CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
